@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, this is Lucas Almeida! I'm currently a RPA Dev specialist on Automation Anywhere. 🤖
+##
 
-<!--
-**Void-Beyond/Void-Beyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 📊 My Stats
+<p>
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Void-Beyond&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 Contacts
+<div> 
+  <a href="https://www.linkedin.com/in/lucas-dos-santos-almeida-b411a61a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+##
