@@ -1,7 +1,5 @@
-### Hi there, this is Lucas Almeida! I'm currently a RPA Dev specialist on Automation Anywhere. 🤖
-##
-
-
+## Lucas Almeida 
+#### RPA Dev specialist on Automation Anywhere. 🤖
 #### 📊 My Stats
 <p>
   <img 
@@ -12,7 +10,12 @@
   />
 </p>
 
-#### 📊 Contacts
+#### 🤖 Linguagens e Tecnologias
+<div style="display: inline_block"><br>
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+#### 💬 Contacts
 <div> 
   <a href="https://www.linkedin.com/in/lucas-dos-santos-almeida-b411a61a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
